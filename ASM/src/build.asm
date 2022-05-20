@@ -101,6 +101,7 @@ RANDO_CONTEXT:
 .include "misc_colors.asm"
 .include "door_of_time_col_fix.asm"
 .include "mask_deequip.asm"
+.include "rand_seed.asm"
 
 .align 0x10
 .importobj "../build/bundle.o"

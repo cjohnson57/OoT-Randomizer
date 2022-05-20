@@ -1317,7 +1317,7 @@ typedef struct
 #define z64_event_state_1_addr                  0x800EF1B0
 #define z64_LinkInvincibility_addr              0x8038E578
 #define z64_LinkDamage_addr                     0x8038E6A8
-#define z64_RandSeed_addr                       0x800CDCCC
+#define z64_RandSeed_addr                       0x800CDCC0
 
 /* rom addresses */
 #define z64_icon_item_static_vaddr              0x007BD000
